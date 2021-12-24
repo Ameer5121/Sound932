@@ -1,4 +1,4 @@
-#### Hello there 👋.  an Israeli developer.
+#### Hello there 👋. I am an Israeli developer.
 
 # C# Developer
 I am a C# developer who mostly likes to develop games and Windows based applications. I am also open to the idea of trying out anything that is interesting!
