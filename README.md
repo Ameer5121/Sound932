@@ -5,7 +5,7 @@ I am a C# developer who mostly likes to develop games and Windows based applicat
 
 # Current WIP Projects
 Current and only project I am working on right now:
-* 🔭 [Chit-Chat](https://github.com/Sound932/Chit-Chat). It's a social chatting application for Windows and has some aspects from Discord. I've been working on this project with the intention of it helping me land my first job.
+* 🔭 [Chit-Chat](https://github.com/Sound932/Chit-Chat). It's a social chatting application for Windows and has some aspects from Discord.
 
 
 # 📫 Reaching me
