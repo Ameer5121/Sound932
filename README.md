@@ -1,26 +1,12 @@
-#### Hello there 👋. I am an Israeli developer.
+Hello there 👋. I am Ameer Shehady, an Israeli developer.
 
 # C# Developer
 I am a C# developer who mostly likes to develop games and Windows based applications. I am also open to the idea of trying out anything that is interesting!
 
 # Current WIP Projects
 Current and only project I am working on right now:
-* 🔭 [Chit-Chat](https://github.com/Sound932/Chit-Chat). It's a social chatting application for Windows and has some aspects from Discord.
+* 🔭 [Chit-Chat](https://github.com/Sound932/Chit-Chat). It's a social chatting application for Windows and has some aspects from Discord. I've been working on this project with the intention of it helping me land my first job.
 
 
 # 📫 Reaching me
-For any questions regarding [Chit-Chat](https://github.com/Sound932/Chit-Chat) or any project I have, you can contact me on Discord: **Sound#9535**
-<!--
-**Sound932/Sound932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For any questions regarding [Chit-Chat](https://github.com/Sound932/Chit-Chat) or any project I have, you can contact me through Discord: **Sound#9535**
