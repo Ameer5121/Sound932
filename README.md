@@ -10,4 +10,4 @@ Current and only project I am working on right now:
 
 
 # 📫 Reaching me
-For any questions regarding [Chit-Chat](https://github.com/Sound932/Chit-Chat) or any project I have, you can contact me through Discord: **Sound#9535** or through my Email Address: shehadyamer@gmail.com
+For any questions regarding [Chit-Chat](https://github.com/Sound932/Chit-Chat) or any project I have, you can contact me through Discord: **sound9535** or through my Email Address: shehadyamer@gmail.com
